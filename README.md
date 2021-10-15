@@ -16,13 +16,26 @@ I am a fullstack software engineer and a junior data scientist
 
 
 ## Expertise
-
-<img align="left" alt="ML" src="https://img.shields.io/badge/ML-MACHINE%20LEARNING-red" />
+<img align="left" alt="android" src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-C++%20Python%20R%20SQL-white?logoColor=white&style=for-the-badge" />
+<br>
+<p>Python: </p>
+<img align="left" alt="android" src="https://img.shields.io/badge/Python-NON%20LINEAR%20PROGRAMMING-orange?logoColor=white&style=for-the-badge" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Python-MINLP%20Optimization-orange?logoColor=white&style=for-the-badge" />
+<br>
+<p>Fields: </p>
+<img align="left" alt="ML" src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-red?logoColor=white&style=for-the-badge" /><br>
+<img align="left" alt="ML" src="https://img.shields.io/badge/OPENCV-COMPUTER%20VISION-red?logoColor=white&style=for-the-badge" />
+<img align="left" alt="ML" src="https://img.shields.io/badge/ML-DEEP%20LEARNING%20-red?logoColor=white&style=for-the-badge" /><br>
+<img align="left" alt="android" src="https://img.shields.io/badge/Deep%20Learning-CNN%20RNN-red?logoColor=white&style=for-the-badge" />
+<br>
+<p>Web: </p>
+<img align="left" alt="android" src="https://img.shields.io/badge/Html%20CSS%20JS%20Php%20SQL-WEB%20DEVELOPMENT-blue?logoColor=white&style=for-the-badge" />
 <img align="left" alt="django" src="https://img.shields.io/pypi/djversions/djangorestframework" />
-<img align="left" alt="ML" src="https://img.shields.io/badge/OPENCV-COMPUTER%20VISION-blue" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="ML" src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-white" /><br>
-<img align="left" alt="android" src="https://img.shields.io/badge/JS-Javascript-red?logoColor=white&style=for-the-badge" />
+
+
+
+
 
 <br>
 
