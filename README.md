@@ -22,7 +22,7 @@ I am a fullstack software engineer and a junior data scientist
 </br>
 
 ## Expertise with Python
-<p>Python: </p>
+<p></p>
 <img align="left" alt="android" src="https://img.shields.io/badge/Python-NON%20LINEAR%20PROGRAMMING-orange?logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Python-MINLP%20Optimization-orange?logoColor=white&style=for-the-badge" />
 </br>
@@ -38,7 +38,7 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Php,Flask,React,jQuery,Node.js,Electron.js,MySQL,Bootstrap)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Git,GitHub,Bitbucket)](https://github.com/Hermann)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Git,GitHub,Bitbucket)](https://github.com/Hermann-web)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Demand-forecasting-with-python&locale=en)](https://github.com/Hermann-web/Demand-forecasting-with-python)
