@@ -6,7 +6,7 @@ var DICT = [
 {"id":1, "title":"Le génie entrepreneur: partie 1","author":"H.A","url":"#","date":"27/05/2022",
 "text":`Anyone could come up with any idea. But not everyone have the gut to fit them into the reality framework, that complex world to unravel.`,
 "field":"theorèmes du moi"},
-{"id":0, "title":"Le génie entrepreneur: partie 1","author":"H.A","url":"#","date":"27/05/2022",
+{"id":0, "title":"Le génie entrepreneur: partie 2","author":"H.A","url":"#","date":"27/05/2022",
 "text":`Un entrepreneur est un chercheur de problème, de solution et de marché ( quand est-ce que le problème pourrait avoir lieu). C'est un problem-solveur, de même qu'un matheux, un philosophe ou un programmeur.
 
 `,
