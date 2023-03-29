@@ -45,21 +45,23 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Frameworks&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Frameworks&badges=ImageAI,MrJob,Statsmodels,Matplotlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Frameworks&badges=Statsmodels,Matplotlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal,ImageAI,MrJob)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Frameworks&badges=R,Matlab,twillio-python,beautifulSoup,smtplib,pybricks,PM2-js,Nodemon-js,Maven-java)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Frameworks&badges=R,Matlab,twillio-python,beautifulSoup,smtplib,networkx,pybricks,PM2-js,Nodemon-js,Maven-java)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Competences&badges=Regex,ML,Deep-Learning,Statistics,Optimization)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Competences&badges=Image-Manip,Pdf-Creation,QR-handler,Secure-Login,Data-Cleaning,Mail-Automation,OCR,Website-Translation,UML,Web-Scrapping)](https://github.com/Hermann-web)
+
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Competences&badges=Full-Stack,Web-Dev,Desktop-App,CLI-App,API,ETL,Visualization,Graphs,POO,Recursive-Call)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Competences&badges=Design-Pattern,Clean-Code,Unit-Testing,Packaging,Deployment,Time-Complexity,Debugging,Logging,Googling,Code-Licensing)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,SQLite,Git,GitHub,Gitlab,SparQL,Hadoop)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=Heroku,MongoDbAtlas,NameCheap)](https://github.com/Hermann-web)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Image-Manip,Pdf-Creation,QR-handler,Secure-Login,Data-Cleaning,Mail-Automation,OCR,Website-Translation,UML,)](https://github.com/Hermann-web)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Design-Pattern,Clean-Code,Regex,Web-Scrapping,Full-Stack,Web-Dev,ML,Deep-Learning,Statistics,Optimization)](https://github.com/Hermann-web)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Desktop-App,CLI-App,API,Binary-Tree,API,Recursive-Call,Unit-Testing)](https://github.com/Hermann-web)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Big-Data,Packaging,Deployment,Time-Complexity,Debugging,Logging,Googling)](https://github.com/Hermann-web)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
 
