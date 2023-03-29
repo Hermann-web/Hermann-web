@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer and a junior data scientist 
-- 🌱 Coding almost everyday since 2018: Clean code with design patterns
+- 🌱 Coding almost everyday since 2018: Cleaner code with design patterns
 - 🔭 Working on (ML && full stack && software && website) (personal || freelance) projects 
 - 🌱 Keeping up with the innovations in AI
 - 🌱 Currently data scientist working on software freelance projects
