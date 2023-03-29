@@ -41,11 +41,11 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20API%20Framework&badges=Django-Rest,Express-js,Socket.io,Ajax,Flask,zeromq-js)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow,ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow,ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=ImageAI,MrJob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Framework&badges=pybricks,twillio,beautifulSoup,smtplib,PM2-js,Nodemon-js)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Framework&badges=pybricks,twillio-python,beautifulSoup,smtplib,PM2-js,Nodemon-js)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Software%20Framework&badges=Tkinter,PyQt5,Kivy-python,Electron-js,Java-gui)](https://github.com/Hermann-web)
 
