@@ -54,7 +54,7 @@ I am a fullstack software engineer and a junior data scientist
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Logging,Maven-java)](https://github.com/Hermann-web)
 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=PM2-node-js,OCR,Packaging,Complexity,Debuging,Googling)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=PM2-node-js,OCR,API,Packaging,Deployment,Complexity,Debuging,Googling)](https://github.com/Hermann-web)
 
 
 
