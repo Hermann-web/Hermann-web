@@ -45,15 +45,15 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Frameworks&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Frameworks&badges=ImageAI,MrJob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Frameworks&badges=ImageAI,MrJob,Statsmodels,Matplotlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Frameworks&badges=R,Matlab,twillio-python,beautifulSoup,smtplib,pybricks,PM2-js,Nodemon-js,Maven-java)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,Git,GitHub,Bitbucket,SparQL,Hadoop,Heroku,MongoDbAtlas)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,Web-Dev,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Design-Pattern,Clean-Code,Regex,Web-Scrapping,Full-Stack,Web-Dev,ML,Deep-Learning,Statistics,Optimization)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-cleaning,MailAutomation,,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-Cleaning,Mail-Automation,OCR,Desktop-App,Binary-Tree,API,recurcivity)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=OCR,API,Packaging,Deployment,Complexity,Debuging,Logging,Googling,Unit-Testing)](https://github.com/Hermann-web)
 
