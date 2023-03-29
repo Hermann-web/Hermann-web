@@ -37,9 +37,15 @@ I am a fullstack software engineer and a junior data scientist
 
 <p></p>
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Php,Flask,React,jQuery,Node.js,Electron.js,MySQL,Bootstrap)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,DjangoRestFramework,Php,Flask,MERN,React,jQuery,Node.js,Electron.js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Git,GitHub,Bitbucket)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow,ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Framework&badges=pybricks,twillio,beautifulSoup,smtplib,)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,Git,GitHub,Bitbucket,SparQL,Hadoop,Heroku)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences=Design-patterns,Dynamic-Programming,Clean-Code,Regex,WebScrapping,Full-StackWeb-development,Machine-Learning,Deep-Learning,Statistics,Optimization,Mail-Automation,Application-Packaging,Desktop-App-development,Tree-Computation,API,Software-design,Recursive-Algorith,Code-Complexity,Debuging,Googling,Logging,Maven-java,PM2-node-js,OCR)](https://github.com/Hermann-web)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Demand-forecasting-with-python&locale=en)](https://github.com/Hermann-web/Demand-forecasting-with-python)
