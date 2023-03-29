@@ -1,9 +1,10 @@
 ### Hello World 👋
 I am a fullstack software engineer and a junior data scientist 
-- 🔭 Working on a movie recommendation project 
-- 🌱 Learning deep learning for image processing
-- 🌱 I’m currently a cesure student
-- 👯 I’m looking to collaborate on ML, OCR, NLP projects.
+- 🌱 Coding almost everyday since 2018: Clean code with design patterns
+- 🔭 Working on (ML && full stack && software && website) (personal || freelance) projects 
+- 🌱 Keeping up with the innovations in AI
+- 🌱 Currently data scientist working on software freelance projects
+- 👯 Looking to collaborate on ML, OCR, NLP projects.
 - 📫 How to reach me: 
   - mail: hermannagossou6@gmail.com
   - linkedin: https://www.linkedin.com/in/agossou-hermann/
