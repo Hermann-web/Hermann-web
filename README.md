@@ -37,9 +37,11 @@ I am a fullstack software engineer and a junior data scientist
 
 <p></p>
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Django-Rest,Php,Flask,MERN,React,jQuery,Node.js,Electron.js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Django-Rest,Php,Flask,MERN-Stack,React,jQuery,Node-js,Electron-js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow,ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Framework&badges=pybricks,twillio,beautifulSoup,smtplib,PM2-js,Nodemon-js)](https://github.com/Hermann-web)
 
@@ -47,11 +49,10 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDevelopment,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Logging,Maven-java)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-cleaning,MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Maven-java)](https://github.com/Hermann-web)
 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=OCR,API,Packaging,Deployment,Complexity,Debuging,Googling)](https://github.com/Hermann-web)
-
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=OCR,API,Packaging,Deployment,Complexity,Debuging,Logging,Googling)](https://github.com/Hermann-web)
 
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
