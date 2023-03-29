@@ -37,7 +37,7 @@ I am a fullstack software engineer and a junior data scientist
 
 <p></p>
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,DjangoRestFramework,Php,Flask,MERN,React,jQuery,Node.js,Electron.js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Django-Rest,Php,Flask,MERN,React,jQuery,Node.js,Electron.js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow,ImageAI,mrjob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,Matlab)](https://github.com/Hermann-web)
 
