@@ -45,10 +45,6 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,Git,GitHub,Bitbucket,SparQL,Hadoop,Heroku)](https://github.com/Hermann-web)
 
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDev,Machine-Learning,Deep-Learning)](https://github.com/Hermann-web)
-
-
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDevelopment,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Logging,Maven-java)](https://github.com/Hermann-web)
