@@ -45,7 +45,18 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,Git,GitHub,Bitbucket,SparQL,Hadoop,Heroku)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences=Design-patterns,Dynamic-Programming,Clean-Code,Regex,WebScrapping,Full-StackWeb-development,Machine-Learning,Deep-Learning,Statistics,Optimization,Mail-Automation,Application-Packaging,Desktop-App-development,Tree-Computation,API,Software-design,Recursive-Algorith,Code-Complexity,Debuging,Googling,Logging,Maven-java,PM2-node-js,OCR)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDev,Machine-Learning,Deep-Learning)](https://github.com/Hermann-web)
+
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDevelopment,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Logging,Maven-java)](https://github.com/Hermann-web)
+
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=PM2-node-js,OCR,Packaging,Complexity,Debuging,Googling)](https://github.com/Hermann-web)
+
+
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Demand-forecasting-with-python&locale=en)](https://github.com/Hermann-web/Demand-forecasting-with-python)
