@@ -39,7 +39,7 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Frameworks&badges=JavaScript,Django,Php,MERN-Stack,React-js,jQuery,Node-js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20API%20Frameworks&badges=Django-Rest,Express-js,Socket.io,Ajax,Flask,zeromq-js)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20API%20Frameworks&badges=SQL,Django-Rest,Express-js,Socket.io,Ajax,Flask,zeromq-js)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Software%20Frameworks&badges=Tkinter,PyQt5,Kivy-python,Electron-js,Java-gui)](https://github.com/Hermann-web)
 
@@ -53,9 +53,9 @@ I am a fullstack software engineer and a junior data scientist
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Design-Pattern,Clean-Code,Regex,Web-Scrapping,Full-Stack,Web-Dev,ML,Deep-Learning,Statistics,Optimization)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-Cleaning,Mail-Automation,OCR,Desktop-App,Binary-Tree,API,recurcivity)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-Cleaning,Mail-Automation,OCR,Desktop-App,Binary-Tree,API,Recursive-Call)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=OCR,API,Packaging,Deployment,Complexity,Debuging,Logging,Googling,Unit-Testing)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=OCR,API,Packaging,Deployment,Time-Complexity,Debugging,Logging,Googling,Unit-Testing)](https://github.com/Hermann-web)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Search-engine-with-python-nlp&locale=en)](https://github.com/Hermann-web/Search-engine-with-python-nlp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Hermann-web&repo=Demand-forecasting-with-python&locale=en)](https://github.com/Hermann-web/Demand-forecasting-with-python)
