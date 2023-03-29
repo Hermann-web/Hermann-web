@@ -37,21 +37,21 @@ I am a fullstack software engineer and a junior data scientist
 
 <p></p>
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Framework&badges=JavaScript,Django,Php,MERN-Stack,React-js,jQuery,Node-js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Web%20Frameworks&badges=JavaScript,Django,Php,MERN-Stack,React-js,jQuery,Node-js,Bootstrap,servlet-java)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20API%20Framework&badges=Django-Rest,Express-js,Socket.io,Ajax,Flask,zeromq-js)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20API%20Frameworks&badges=Django-Rest,Express-js,Socket.io,Ajax,Flask,zeromq-js)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Software%20Framework&badges=Tkinter,PyQt5,Kivy-python,Electron-js,Java-gui)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Software%20Frameworks&badges=Tkinter,PyQt5,Kivy-python,Electron-js,Java-gui)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Framework&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Python%20and%20ML%20Frameworks&badges=Python,Numpy,Pandas,Sklearn,OpenCV,Tensorflow,Pytorch,Nltk,textblob,Pillow)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Framework&badges=ImageAI,MrJob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20ML%20Frameworks&badges=ImageAI,MrJob,StatModels,Matpltlib,Seaborn,Dash,scipy.stats,Keras,scipy.optimize,scipy.signal)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Framework&badges=R,Matlab,twillio-python,beautifulSoup,smtplib,pybricks,PM2-js,Nodemon-js)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Other%20Frameworks&badges=R,Matlab,twillio-python,beautifulSoup,smtplib,pybricks,PM2-js,Nodemon-js)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,PostGreSQL,MongoDB,Git,GitHub,Bitbucket,SparQL,Hadoop,Heroku,MongoDbAtlas)](https://github.com/Hermann-web)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,WebDevelopment,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=DesignPattern,CleanCode,Regex,WebScrapping,Full-Stack,Web-Dev,ML,DeepLearning,Statistics,Optimization)](https://github.com/Hermann-web)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Concepts%20and%20Competences&badges=Data-cleaning,MailAutomation,Maven-java,PM2-js,OCR,Desktop-App,Binary-Tree,API,recurcivity,Maven-java)](https://github.com/Hermann-web)
 
