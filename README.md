@@ -4,7 +4,7 @@ I am a fullstack software engineer and a junior data scientist
 - 🔭 Working on (ML && full stack && software && website) (personal || freelance) projects 
 - 🌱 Keeping up with the innovations in AI
 - 🌱 Currently data scientist and freelance
-- 👯 Looking to collaborate on ML, OCR, NLP projects.
+- 👯 Looking to collaborate on ML, 3D Computer Vision, NLP projects.
 - 📫 How to reach me: 
   - mail: hermannagossou6@gmail.com
   - linkedin: https://www.linkedin.com/in/agossou-hermann/
