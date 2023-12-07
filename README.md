@@ -9,6 +9,7 @@ I am a fullstack software engineer and a junior data scientist
   - mail: hermannagossou6@gmail.com
   - linkedin: https://www.linkedin.com/in/agossou-hermann/
   - twitter: https://twitter.com/AgossouHermann
+- 🔭: Visit my blog: https://hermann-web.github.io
 
 ## My shared projects [Take a look](https://github.com/Hermann-web?tab=repositories)
 
