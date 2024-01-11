@@ -1,4 +1,6 @@
-### Hello World 👋
+<h1 align="center">Hi 👋, I'm Hermann AGOSSOU</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hermann-web&label=Profile%20views&color=0e75b6&style=flat" alt="hermann-web" /> </p>
+
 I am a fullstack software engineer and a junior data scientist 
 - 🌱 Coding almost everyday since 2018: Cleaner code with design patterns
 - 🔭 Working on (ML && full stack && software && website) (personal || freelance) projects 
