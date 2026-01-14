@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hermann-web&label=Profile%20views&color=0e75b6&style=flat" alt="hermann-web" /> </p>
 
 # 💫 About Me:
-Data Science PhD Candidate & Full-stack engineer  | Building ML for healthcare systems, web applications and personally helpful softwares | <br>6+ years coding<br><br>Expertise: Machine Learning | Full-Stack Development | AI Agents<br>Open to collaboration on ML, inverse PDE problems, and interesting projects
+💡  I like to explore new technologies and develop software solutions, ML models, and quick hacks.<br>🎓  I'm currently pursuing a PhD in Data Science for healthcare, bridging Maths and ML for inverse problem solving.<br>🌱  I'm on track for learning more about Inverse PDE Problems, Deep Neural Networks, Healcare software systems, AI Agents, Large Language Models, and Cloud Architecture.<br>💻  I've been coding almost everyday since 2018, researching in ML and building full-stack web applications as well as personally helpful softwares.<br>✍️  In my free time, I maintain a technical blog sharing insights on ML, web development, and software engineering.<br>🤝  Feel free to reach out to me for collaborations on ML, AI Agents, and inverse PDE projects, or just for some interesting discussion.<br>✉️  You can shoot me an email at hermannagossou6@gmail.com! I'll try to respond as soon as I can.<br>📄  Please have a look at my [Blog](https://hermann-web.github.io) and [Projects](https://hermann-web.github.io/blog/projects/) for more details about my work. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
